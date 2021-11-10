@@ -69,3 +69,6 @@ If you have forked the project, you need to give it another name in order to avo
 Accessories from the LEVENTADOR PRO project also need to be named with the entire prefix, e.g. “SOUTHEAST LEVENTADOR FPV Camera Mount”. Unless the file is not compatible with certain versions of the frame, the compatible version number or version range also needs to be included in the name, e.g. “SOUTHEAST LEVENTADOR FPV Camera Mount V1 - V2”.  Accessories for the Leventador Pro are fully compatible with the Leventador Sport.
 
 
+
+
+
