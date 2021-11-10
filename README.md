@@ -1,8 +1,8 @@
-# Leventador Sport
+# Leventador Pro
 Open Source FPV Drone Box Racing Frame project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont
 <img src="https://github.com/SouthEastFPV/Leventador-Pro/blob/main/Images/LP_V1.png?raw=true" width="800">
 
-# About Leventador Sport
+# About Leventador Pro
 ## The idea
 The Leventador Pro was inspired by the Knife Box Racing Frame, which was the first Box Racing frame released in the USA as well as the PyroCube Frame (which I designed as well).  The idea of the Leventador Pro was to create a design that was 75g or less and with TPU this frame is 78g. This frame has taken may 1st podium positions around the US and has put several Pro Pilots in Top 16 positions at MultiGP Champs and was the prodominate race frame for the QuadRivals Race Team for 2 years and still being raced by many top pilots today.
 
@@ -13,7 +13,7 @@ The Leventador Pro was inspired by the Knife Box Racing Frame, which was the fir
 * Bottom plate 2mm
 * Arm: 2mm
 * Front Rear Brace: 2mm
-* Side Brace: 3mm
+* Side Brace: 2mm
 * Dual Mount: 2mm
 * Mount: 2mm
 * Lipo Pad: 2mm (optional)
@@ -63,8 +63,9 @@ Please use the tag "leventador" when uploading files to thingiverse.com
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
 
 ## Project naming requirements
-Leventador Sport is the name of the frame.  If you are thinking about manufacturing it, you are expected to prefix the name with a brand name in order to allow customers to distinguish the different manufacturers, e.g. “SOUTHEAST LEVENTADOR PRO”. As a manufacturer you are also expected to denote the version number of the frame files that you have used as basis of the project, e.g. “SOUTHEAST LEVENTADOR PRO V1”. 
+Leventador Pro is the name of the frame.  If you are thinking about manufacturing it, you are expected to prefix the name with a brand name in order to allow customers to distinguish the different manufacturers, e.g. “SOUTHEAST LEVENTADOR PRO”. As a manufacturer you are also expected to denote the version number of the frame files that you have used as basis of the project, e.g. “SOUTHEAST LEVENTADOR PRO V1”. 
+
 If you have forked the project, you need to give it another name in order to avoid confusion between LEVENTADOR PRO and your project.
-Accessories from the LEVENTADOR PRO project also need to be named with the entire prefix, e.g. “SOUTHEAST LEVENTADOR FPV Camera Mount”. Unless the file is not compatible with certain versions of the frame, the compatible version number or version range also needs to be included in the name, e.g. “SOUTHEAST LEVENTADOR FPV Camera Mount V1 - V2”
+Accessories from the LEVENTADOR PRO project also need to be named with the entire prefix, e.g. “SOUTHEAST LEVENTADOR FPV Camera Mount”. Unless the file is not compatible with certain versions of the frame, the compatible version number or version range also needs to be included in the name, e.g. “SOUTHEAST LEVENTADOR FPV Camera Mount V1 - V2”.  Accessories for the Leventador Pro are fully compatible with the Leventador Sport.
 
 
