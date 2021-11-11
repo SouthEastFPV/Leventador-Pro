@@ -45,13 +45,13 @@ Please use the tag "leventador" when uploading files to thingiverse.com
 | Part             |              v4|    
 | ---------------  | -------------  |
 | top plate        |fits both LS LP |         
-| bottom plate     |fits only v1 LP |   
-| mid plate        |fits only v1 LP |              
-| arms             |fits only v1 LP |                 
-| front rear brace |fits only v1 LP |                
-| side brace       |fits only v1 LP |              
-| dual mount       |fits only v1 LP |            
-| mount            |fits only v1 LP |
+| bottom plate     |fits only v4 LP |   
+| mid plate        |fits only v4 LP |              
+| arms             |fits only v4 LP |                 
+| front rear brace |fits only v4 LP |                
+| side brace       |fits only v4 LP |              
+| dual mount       |fits only v4 LP |            
+| mount            |fits only v4 LP |
 | lipo pad         |fits both LS LP | 
 
 
