@@ -42,7 +42,7 @@ Please use the tag "leventador" when uploading files to thingiverse.com
 
 ## Compatibility
 
-| Part             |              v1|    
+| Part             |              v4|    
 | ---------------  | -------------  |
 | top plate        |fits both LS LP |         
 | bottom plate     |fits only v1 LP |   
