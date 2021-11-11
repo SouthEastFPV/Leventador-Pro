@@ -6,7 +6,7 @@ Open Source FPV Drone Box Racing Frame project initiated by SouthEastFPV - Rick 
 ## The idea
 The Leventador Pro was inspired by the Knife Box Racing Frame, which was the first Box Racing frame released in the USA as well as the PyroCube Frame (which I designed as well).  The idea of the Leventador Pro was to create a design that was 75g or less and with TPU this frame is 78g. This frame has taken may 1st podium positions around the US and has put several Pro Pilots in Top 16 positions at MultiGP Champs and was the prodominate race frame for the Quad Rivals Race Team for 2 years and still being raced by many top pilots today.
 
-<img src="https://github.com/SouthEastFPV/Leventador-Pro/blob/main/Images/LP_V1.png?raw=true" width="800">
+<img src="https://github.com/SouthEastFPV/Leventador-Pro/blob/main/Images/LP_v4_Assembly.jpg?raw=true" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 197mm
